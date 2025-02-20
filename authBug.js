@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an unexpected error if the user's email address is invalid or already in use, but the error message is not always clear.  For example, a network issue during account creation could manifest as a seemingly unrelated authentication error.
